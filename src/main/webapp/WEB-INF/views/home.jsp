@@ -11,6 +11,5 @@
 
 <P>  The time on the server is ${serverTime}. </P>
 
-<h1>test</h1>
 </body>
 </html>
